@@ -1,0 +1,7 @@
+body{
+    width: 100vw;
+    height: 100vh; 
+    /* set ค่าความกว้างและความสูงให้เท่าขนาดของวินโดวส์ */
+    cursor: crosshair;
+    /* change cursur to cross */
+}
